@@ -18,3 +18,5 @@ We are going to create a Student object acting as a model.StudentView will be a 
 can print student details on console and StudentController is the controller class responsible to
 store data in Student object and update view StudentView accordingly.
 MVCPatternDemo, our demo class, will use StudentController to demonstrate use of MVC pattern.
+
+![image](https://user-images.githubusercontent.com/42840869/207929811-02facbe6-0ad6-4045-b719-72e3cc6c5dc6.png)
